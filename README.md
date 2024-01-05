@@ -1,13 +1,13 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Roshan Khatri</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate Fullstack MERN developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshankhatri0&label=Profile%20views&color=0f97eb&style=flat" alt="roshankhatri0" /> </p>
 
-- 🔭 I’m currently working on **Cleaner a webpage and mobile app**
+- 🔭 I’m currently working on **developing my skills**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **MERN Full stack**
 
 - 📫 How to reach me **lastkhatri@gmail.com**
 
